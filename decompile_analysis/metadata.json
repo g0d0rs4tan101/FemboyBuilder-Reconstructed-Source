@@ -1,0 +1,6 @@
+{
+  "original_file": "FemboyBuilder.Windows.exe",
+  "sha256": "2251a69f0323246958ece391309e9f4668197816f9272560b3e51c416994d785",
+  "analysis_tool": "Ghidra 12.1.4 via REA",
+  "note": "All files in this folder are from static analysis/decompilation"
+}
