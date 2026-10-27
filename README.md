@@ -100,6 +100,8 @@ The goal is to help researchers and users understand what software advertised as
 
 Use this material responsibly and in accordance with applicable laws and platform policies.
 
+## Documentation note:
+I described XMRig as a cryptocurrency mining component, but avoided claiming that it definitely mines Monero, uses a particular pool, or runs through a particular execution path. Those details should only be added if confirmed by your analysis.
 
 ## Additional Notes
 I used REA to do this, i am not the best at reverse engineering myself, please do not hate, this is my first post on this aswell.
